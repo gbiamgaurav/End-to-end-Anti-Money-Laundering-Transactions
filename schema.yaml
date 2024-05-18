@@ -1,0 +1,17 @@
+
+COLUMNS:
+ Timestamp:          object 
+ From Bank:          int64  
+ Account:            object 
+ To Bank:            int64  
+ Account.1:          object 
+ Amount Received:    float64
+ Receiving Currency: object 
+ Amount Paid:        float64
+ Payment Currency:   object 
+ Payment Format:     object 
+ Is Laundering:      int64
+
+
+TARGET_COLUMN:
+  name: Is Laundering

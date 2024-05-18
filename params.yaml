@@ -1,0 +1,5 @@
+XGBClassifier:
+  gamma: 0
+  max_depth: 6
+  colsample_bytree: 1
+  
